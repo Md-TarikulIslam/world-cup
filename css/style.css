@@ -188,6 +188,7 @@ hr {
 .fa-telegram,
 .fa-linkedin {
   color: white;
+  text-decoration: none;
 }
 
 /* Media Screen
