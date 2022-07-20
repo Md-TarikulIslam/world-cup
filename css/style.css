@@ -188,9 +188,10 @@ hr {
 .fa-telegram,
 .fa-linkedin {
   color: white;
+}
+.icon {
   text-decoration: none;
 }
-
 /* Media Screen
 For Smartphone */
 

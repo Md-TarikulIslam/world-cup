@@ -186,7 +186,9 @@ hr {
 .fa-linkedin {
   color: white;
 }
-
+.icon {
+  text-decoration: none;
+}
 /* Media Screen 
 for Smartphone*/
 @media only screen and (max-width: 576px) {
